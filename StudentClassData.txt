@@ -1,0 +1,3 @@
+StudentID,ClassID
+1,C101
+2,C102
