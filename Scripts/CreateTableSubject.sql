@@ -1,4 +1,5 @@
 -- create table Subject
+-- https://www.geeksforgeeks.org/dbms/denormalization-in-databases/
 USE [Denormalization]
 GO
 
@@ -9,7 +10,7 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 
-CREATE TABLE [dbo].[Subject](
+CREATE TABLE [dbo].[Subject_Geeks_For_Geeks](
 	[ClassID] [varchar](50) NOT NULL,
 	[Subject] [varchar](50) NOT NULL,
  CONSTRAINT [PK_Subject] PRIMARY KEY CLUSTERED 
