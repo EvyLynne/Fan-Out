@@ -1,7 +1,0 @@
-ClassID,Subject
-C101,Algebra
-C101,Calculus
-C102,Chemistry
-C101,Geometry
-C102,Physics
-C101,Trigonometry
