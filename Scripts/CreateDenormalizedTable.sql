@@ -1,8 +1,9 @@
 -- create denormalized table
+-- https://www.geeksforgeeks.org/dbms/denormalization-in-databases/
 USE [Denormalization]
 GO
 
-/****** Object:  Table [dbo].[Denormalized_Blob]    Script Date: 12/2/2025 10:46:23 AM ******/
+/****** Object:  Table [dbo].[Denormalized_Blob_Geeks_For_Geeks]    Script Date: 12/2/2025 10:46:23 AM ******/
 SET ANSI_NULLS ON
 GO
 
