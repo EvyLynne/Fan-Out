@@ -1,6 +1,8 @@
 <b>Purpose of this repo: </b>Provide tutorials and tools to get skills in querying denormalized data vs. normalized data for the purpose of avoiding fan out and aggregation errors.  <br>
-As of the date of this writing: Last Updated : 31 Dec, 2025 <br>
+Last Updated : 31 Dec, 2025 <br>
+
 <b>Note:</b> I added additional data to the Geeks For Geeks Subject table and to the Denormalized table to get better insights into the problem with fan out with aggregations and to hone skills.  <br>
+
 <b>Instructions for Geeks For Geeks Data Use: </b>
     <ol>
       <li>Create database with name of your choice or use sql script file CreateDBDenormalization.sql</li>
