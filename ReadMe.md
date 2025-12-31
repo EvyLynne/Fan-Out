@@ -8,7 +8,7 @@ As of the date of this writing: Last Updated : 31 Dec, 2025 <br>
       <li>Query the denromalized table</li>
       <li>Create a query with the normalized tables to display the data the same way</li>
       <li>Query both tables to count the number of subjects each teacher teaches or each student takes</li>
-      <li>This should demoonstrate the problem with aggregation over denormalized data</li>      
+      <li>This should demonstrate the problem with aggregation over denormalized data</li>      
     </ol>
 
 <b>General information on fan out:</b> 
