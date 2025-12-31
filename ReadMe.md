@@ -1,24 +1,6 @@
 <b>Purpose of this repo: </b>Provide tutorials and tools to get skills in querying denormalized data vs. normalized data for the purpose of avoiding fan out and aggregation errors.  <br>
 Last Updated : 31 Dec, 2025 <br>
-<table>
-        <caption>Monthly Expenses</caption>
-        <thead>
-            <tr>
-                <th>Category</th>
-                <th>Amount</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Groceries</td>
-                <td>$250</td>
-            </tr>
-            <tr>
-                <td>Utilities</td>
-                <td>$100</td>
-            </tr>
-        </tbody>
-    </table>
+ 
 <b>Note:</b> I added additional data to the Geeks For Geeks Subject table and to the Denormalized table to get better insights into the problem with fan out with aggregations and to hone skills.  <br>
 
 <b>Instructions for Geeks For Geeks Data Use: </b>
