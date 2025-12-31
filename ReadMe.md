@@ -25,7 +25,6 @@ As of the date of this writing: Last Updated : 27 Oct, 2025 <br>
 <ol>
       <li>https://www.geeksforgeeks.org/dbms/denormalization-in-databases/</li>
       <li>https://koushik-dutta.medium.com/avoiding-pitfalls-a-guide-to-sql-traps-and-how-to-solve-them-acdc3a95c74f </li>
-      <li>https://discuss.google.dev/t/the-problem-of-sql-fanouts/119220</li>
       <li>https://help.whaly.io/misc/sql-fanout</li>
       <li>https://docs.holistics.io/docs/faqs/fan-out-issue</li>
       <li>https://www.linkedin.com/posts/trucklos_lets-talk-about-fanout-in-sql-fanout-is-activity-7128007252753448960-D1M7/</li>      
