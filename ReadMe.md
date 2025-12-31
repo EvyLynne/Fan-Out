@@ -18,7 +18,6 @@ As of the date of this writing: Last Updated : 27 Oct, 2025 <br>
       <li>https://discuss.google.dev/t/outer-join-on-false-or-how-i-learned-to-stop-fanning-out-and-love-the-null/114301</li>
       <li>https://help.whaly.io/misc/sql-fanout</li>
       <li>https://docs.holistics.io/docs/faqs/fan-out-issue</li>
-
     </ol>    
     
 <b>References used in this tutorial:</b> 
