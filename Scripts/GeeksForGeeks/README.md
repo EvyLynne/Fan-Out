@@ -2,6 +2,7 @@ I took the data sample from https://www.geeksforgeeks.org/dbms/denormalization-i
 <ul>
   <li>I created a normalized and denormalized structure using the same data for comparision.</li>
   <li>I added additional data to the Geeks For Geeks Subject table and to the Denormalized table to get better insights into the problem with fan out with aggregations and to hone skills</li>
+    <li>I pulled the tables into Power BI to be able to quickly see the relationships.</li>
    <li>The relationships are as such: 
      <ul>
   <li>Classes is one to many Subject</li>
