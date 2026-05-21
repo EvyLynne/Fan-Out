@@ -1,4 +1,3 @@
-👷🏻‍♀️⚠️This repo is still under construction 📏🏗👷‍♀️🧱🦺 <br>
 ## Purpose:<br>
 This folder contains the artifacts to set up a Sql Server Database using Sql Server Management Studio to practice writing queries to study the problem of fan out
 <ol><br>
