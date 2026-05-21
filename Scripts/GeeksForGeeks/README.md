@@ -1,7 +1,7 @@
 I took the data sample from https://www.geeksforgeeks.org/dbms/denormalization-in-databases/  Denormalization in Databases Last Updated : 27 Oct, 2025 by Geeks For Geeks. <br>
 <ul>
   <li>I created a normalized and denormalized structure using the same data for comparision.</li>
-  <li>I added additional data to the Geeks For Geeks Subject table and to the Denormalized table to get better insights into the problem with fan out with aggregations and to hone skills</li>
+  <li>I added additional data to the Geeks For Geeks Subject table and to the Denormalized table to get better insights into the problems with fan out.</li>
    <li>The normalized relationships are as such: 
      <ul>
          <li>Classes is one to many Subject</li>
