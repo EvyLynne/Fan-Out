@@ -11,7 +11,7 @@ I took the data sample from https://www.geeksforgeeks.org/dbms/denormalization-i
    </li>
  </ul>
  
-<b>Instructions for Geeks For Geeks Data Use: </b>
+<b>Instructions for tutorial using Geeks For Geeks Blog: </b>
     <ol>
       <li>Create database with name of your choice</li>
       <li>Create tables using the included CreateTable.sql scripts or write your own CREATE TABLE scripts </li>
