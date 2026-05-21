@@ -14,7 +14,7 @@ I used the example tables found in the Geeks for Geeks blog post about denormali
       <li>This should demonstrate the problem with aggregation over denormalized data</li>      
     </ol>
 
-<b>General information on Normalization & Denormalizationt:</b> 
+<b>General information on Normalization & Denormalization:</b> 
 
 <ol>
       <li>https://medium.com/@iamprovidence/denormalize-your-database-like-there-is-no-tomorrow-d4d1b6d8452e</li>
