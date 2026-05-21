@@ -1,0 +1,12 @@
+-- even in a normalized database problems can arise from badly written code 
+-- It's importatnt not to use DISTINCT without understanding and resolving any problems in the underlying query
+
+-- the first knee-jerk reaction is using distinct, but by examining the underlying data, we find that 
+-- we're actually joining tables we aren't using. Removing the unused table removes the duplicate display problem
+SELECT s.[StudentName]
+    ,c.ClassName
+FROM [Denormalization].[dbo].[Students_Geeks_For_Geeks] s WITH (NOLOCK)
+LEFT JOIN [Denormalization].[dbo].[StudentClass_Geeks_For_Geeks] sc WITH (NOLOCK) on s.StudentID = sc.StudentID
+LEFT JOIN [Denormalization].[dbo].[Classes_Geeks_For_Geeks] c WITH (NOLOCK) on c.ClassID = sc.ClassID
+LEFT JOIN [Denormalization].[dbo].[Subject_Geeks_For_Geeks] su WITH (NOLOCK) on su.ClassID = c.ClassID  -- remove
+
