@@ -19,6 +19,7 @@ I used the example tables found in the Geeks for Geeks blog post about denormali
 <ol>
       <li>https://medium.com/@iamprovidence/denormalize-your-database-like-there-is-no-tomorrow-d4d1b6d8452e</li>
       <li>https://www.geeksforgeeks.org/dbms/denormalization-in-databases/</li>
+      <li> https://www.datacamp.com/tutorial/denormalization/</li>
     </ol>    
 
 
