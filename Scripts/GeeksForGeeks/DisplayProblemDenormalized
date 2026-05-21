@@ -1,0 +1,9 @@
+-- Display problem using denormalized set - 
+SELECT  TeacherName
+    , Subject
+FROM [Denormalization].[dbo].[Denormalized_Blob_Geeks_For_Geeks]
+
+SELECT  TeacherName
+    , STRING_AGG(Subject, ', ') AS Projects
+FROM [Denormalization].[dbo].[Denormalized_Blob_Geeks_For_Geeks]
+GROUP BY TeacherName
