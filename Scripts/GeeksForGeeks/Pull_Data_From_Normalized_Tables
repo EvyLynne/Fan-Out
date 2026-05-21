@@ -1,0 +1,11 @@
+-- The resulting table will show output exactly like the denormlized table, but this query has fan out
+SELECT  s.[StudentID]
+    ,s.[StudentName]
+    ,c.ClassName
+    ,c.TeacherName
+    ,su.Subject
+FROM [Denormalization].[dbo].[Students_Geeks_For_Geeks] s WITH (NOLOCK)
+LEFT JOIN [Denormalization].[dbo].[StudentClass_Geeks_For_Geeks] sc WITH (NOLOCK) on s.StudentID = sc.StudentID
+LEFT JOIN [Denormalization].[dbo].[Classes_Geeks_For_Geeks] c WITH (NOLOCK) on c.ClassID = sc.ClassID
+LEFT JOIN [Denormalization].[dbo].[Subject_Geeks_For_Geeks] su WITH (NOLOCK) on su.ClassID = c.ClassID
+order by 2, 5
