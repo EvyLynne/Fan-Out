@@ -26,7 +26,6 @@ I used the example tables found in the Geeks for Geeks blog post about denormali
 <b>References used in this tutorial:</b> 
 
 <ol>
-    <li>https://www.geeksforgeeks.org/dbms/denormalization-in-databases/ </li>
       <li>https://www.geeksforgeeks.org/dbms/denormalization-in-databases/</li>
       <li>https://koushik-dutta.medium.com/avoiding-pitfalls-a-guide-to-sql-traps-and-how-to-solve-them-acdc3a95c74f </li>
       <li>https://help.whaly.io/misc/sql-fanout</li>
