@@ -8,5 +8,5 @@ This folder contains the artifacts to set up a Sql Server Database using Sql Ser
 <b></b>System notes:</b><br>
  I created the normalized tables in SQL Server version: Microsoft SQL Server 2022 (RTM) - 16.0.1000.6 (X64) Oct 8 2022 05:58:25 Copyright (C) 2022 Microsoft Corporation Developer Edition (64-bit) on Windows 10 Pro 10.0 <X64> (Build 26200: ) (Hypervisor)  <br><br>
  Then upgraded to: <br> Microsoft SQL Server 2025 (RTM-GDR) (KB5091223) - 17.0.1115.1 (X64)   Apr 19 2026 01:00:58   Copyright (C) 2025 Microsoft Corporation  Enterprise Developer Edition (64-bit) on Windows 10 Pro 10.0 <X64> (Build 26200: ) (Hypervisor) 
- <br>
+ <br><br>
 Note: I added additional data to the Geeks for Geeks Subject table and to the Denormalized table to get better insights into the problem with fan out with aggregations and to hone skills.  
