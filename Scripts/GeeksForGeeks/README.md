@@ -16,10 +16,9 @@ I took the data sample from https://www.geeksforgeeks.org/dbms/denormalization-i
       <li>Create database with name of your choice</li>
       <li>Create tables using the included create table scripts or write your own CREATE TABLE scripts </li>
       <li>Populate tables using the included insert scripts or write your own INSERT INTO TABLE scripts </li>
-      <li>Query the denromalized table pulling all data</li>
-      <li>Create a query with the normalized tables to display the data the same way as the denormalized table</li>
       <li>Query denormalized table to count the number of subjects each teacher teaches or each student takes</li>
-      <li>This should demonstrate the problem with aggregation over denormalized data</li>      
+      <li>Create a query with the normalized tables to display the data the same way as the denormalized table to illustrate the problem</li>
+      <li>Rewrite queries</li>      
     </ol>
 
 <table>
