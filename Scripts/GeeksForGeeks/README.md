@@ -15,7 +15,7 @@ I took the data sample from https://www.geeksforgeeks.org/dbms/denormalization-i
     <ol>
       <li>Create database with name of your choice</li>
       <li>Create tables using the included create table scripts or write your own CREATE TABLE scripts </li>
-      <li>Populate tables using the included insert scripts or write your own INSERT INTO TABLE scripts </li>      
+      <li>Populate tables using the included insert scripts or write your own INSERT INTO TABLE scripts </li>
       <li>Query the denromalized table pulling all data</li>
       <li>Create a query with the normalized tables to display the data the same way as the denormalized table</li>
       <li>Query both tables to count the number of subjects each teacher teaches or each student takes</li>
