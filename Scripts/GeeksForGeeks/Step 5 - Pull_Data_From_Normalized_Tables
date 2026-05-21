@@ -1,4 +1,6 @@
--- The resulting table will show output exactly like the denormlized table, but this query has fan out
+-- The resulting table will show output exactly like the denormlized table, but this query has fan out due to incorrect joins
+-- the last join is the problem
+
 SELECT  s.[StudentID]
     ,s.[StudentName]
     ,c.ClassName
