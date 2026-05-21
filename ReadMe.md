@@ -1,8 +1,8 @@
 👷🏻‍♀️⚠️This repo is still under construction 📏🏗👷‍♀️🧱🦺 <br>
 <b>Purpose of this repo: </b>Provide tutorials and tools to get skills in tackling the problem of query fan-out that results in duplicates, display problems and inflated aggregate values. <br>
 Last Updated : 21 May, 2026 <br>
- 
-<b>Note:</b> I added additional data to the Geeks For Geeks Subject table and to the Denormalized table to get better insights into the problem with fan out with aggregations and to hone skills.  <br>
+
+I used the example tables found in the Geeks for Geeks blog post about denormalized data and I added additional data to the Geeks For Geeks Subject table and to the Denormalized table to get better insights into the problem with fan out with aggregations and to hone skills.  <br>
 
 <b>Instructions for Geeks For Geeks Data Use: </b>
     <ol>
